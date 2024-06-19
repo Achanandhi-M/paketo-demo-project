@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step defined' && exit 0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
